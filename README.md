@@ -1,2 +1,2 @@
 # git-sample-kikuchi2
-こんにちは
+こんにちは 12345
